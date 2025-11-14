@@ -28,7 +28,9 @@ This also includes a text file for credits and muting encounters. More songs wil
 
 - School (day, exam day, after hours, and pool party variants)
 
-- Beach Day (day, night, summer day, and summer evening variants)
+- Science Fair and Maths Competition
+
+- Beach (day, night, summer day, and summer evening variants)
 
 - Sydney's Beach Date
 
