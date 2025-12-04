@@ -14,7 +14,7 @@ Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
 4. Upload the stuffy.json file
 
-This also includes a text file for credits and muting encounters. More songs will be added in future releases.
+This also includes a text file for credits and muting encounters. More songs will be added in future releases. Includes two "secret tracks" currently.
 
 ## Current Affected Locations
 
@@ -36,9 +36,13 @@ This also includes a text file for credits and muting encounters. More songs wil
 
 - Sea
 
+- Old Sewers and Beach Cave (includes a chased/stalked variant)
+
+- Avery's Dates (dinner, party, hotel, and Avery winning the cards date variants)
+
 - Being Stalked (includes an Ivory Wraith variant)
 
-- Being Hunted (includes an Ivory Wraith variant)
+- Being Hunted (forest, moor, and Ivory Wraith variants)
 
 - Bloodmoon
 
@@ -50,6 +54,8 @@ This also includes a text file for credits and muting encounters. More songs wil
 
 - Forest Garden
 
+- Churchyard Catacombs
+
 - Cabin Inside (only Post Stockholm)
 
 - Dancing with Eden
@@ -59,3 +65,5 @@ This also includes a text file for credits and muting encounters. More songs wil
 - Moor (day, night, deep, and deep night variants)
 
 - Tower (day and night variants - only Post Stockholm)
+
+- Underground Brothel
