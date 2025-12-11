@@ -60,7 +60,7 @@ This also includes a text file for credits and muting encounters. More songs wil
 
 - Being Hunted (forest, moor, and Ivory Wraith variants)
 
-- Bloodmoon (includes a Hallown variant)
+- Bloodmoon (includes a Halloween variant)
 
 - Whitney's Halloween Event
 
