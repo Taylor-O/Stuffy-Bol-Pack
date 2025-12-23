@@ -1,6 +1,6 @@
 # Stuffy's Breeze Pack
 
-A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 77 music tracks, can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game. Includes four "secret tracks".
+A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 103 music tracks, can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game. Includes four "secret tracks".
 
 Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
