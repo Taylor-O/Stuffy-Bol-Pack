@@ -1,6 +1,6 @@
 # Stuffy's Breeze Pack
 
-A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 77 music tracks, can be used with other packs, though it might replace certain songs.
+A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 77 music tracks, can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game. Includes four "secret tracks".
 
 Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
@@ -14,21 +14,25 @@ Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
 4. Upload the stuffy.json file
 
-This also includes a text file for credits and muting encounters. More songs will be added in future releases for as long as I play the game. Includes two "secret tracks".
+This also includes a text file for credits and muting encounters.
 
 ## Current Affected Locations
 
-- Main Menu/Start Screen
+- Main Menu/Start Screen (includes three tracks)
 
 - Tip and Scene Viewer
 
-- Character Viewer
+- Character Viewer (includes three tracks)
 
 - Orphanage Christmas
 
 - PC Orphanage Bedroom (day and night variants)
 
-- Domus, Danube, Farm Manors Brake-ins
+- Town (night only variant)
+
+- Domus, Danube, Flats, Farm Manors Brake-ins
+
+- Park (night exhibitionism only variant)
 
 - School (day, exam day, after hours, and pool party variants)
 
@@ -43,6 +47,14 @@ This also includes a text file for credits and muting encounters. More songs wil
 - Sea
 
 - Office (includes a working for Avery variant)
+
+- Police Station
+
+- Niki's Studio (includes a weekend variant)
+
+- Strip Club
+
+- Adult Shop (includes variants for different days of the week - up to six tracks)
 
 - Old Sewers and Beach Cave (includes a chased/stalked variant)
 
@@ -66,7 +78,9 @@ This also includes a text file for credits and muting encounters. More songs wil
 
 - Forest (day, night, deep, and deep night variants)
 
-- Forest Shop
+- Forest Shop (includes a variant if Gwylan is 'absent')
+
+- Gwylan's Mating Ritual Dance
 
 - Forest Garden
 
@@ -76,6 +90,8 @@ This also includes a text file for credits and muting encounters. More songs wil
 
 - Dancing with Eden
 
+- Farm (night only variant)
+
 - Cottage (day, evening, and night variants)
 
 - Farm Dungeon
@@ -84,9 +100,11 @@ This also includes a text file for credits and muting encounters. More songs wil
 
 - Moor (day, night, deep, and deep night variants)
 
+- Remy's Estate (includes a max chaos variant)
+
 - Estate Cottage
 
-- Tower (day and night variants - only Post Stockholm)
+- Tower (day, night, telescope night sky variants - only Post Stockholm)
 
 - Bailey's First Punishment
 
