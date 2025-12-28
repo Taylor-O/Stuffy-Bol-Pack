@@ -1,6 +1,6 @@
 # Stuffy's Breeze Pack
 
-A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 103 music tracks, can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game. Includes four "secret tracks".
+A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 105 music tracks, can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game. Includes four "secret tracks".
 
 Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
@@ -16,7 +16,7 @@ Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
 This also includes a text file for credits and muting encounters.
 
-## Current Affected Locations
+## Currently Affected Locations
 
 - Main Menu/Start Screen (includes three tracks)
 
@@ -27,6 +27,8 @@ This also includes a text file for credits and muting encounters.
 - Orphanage Christmas
 
 - PC Orphanage Bedroom (day and night variants)
+
+- Robin Amusements Date
 
 - Town (night only variant)
 
@@ -47,6 +49,8 @@ This also includes a text file for credits and muting encounters.
 - Sea
 
 - Office (includes a working for Avery variant)
+
+- Jewelry Store (DOLP only)
 
 - Police Station
 
