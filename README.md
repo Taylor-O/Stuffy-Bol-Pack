@@ -14,6 +14,8 @@ Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
 4. Upload the stuffy.json file
 
+5. (Optional for DOLP players) After following the above, download the DOLP zip file, unzip, and put the folder in the music folder
+
 This also includes a text file for credits and muting encounters.
 
 ## Currently Affected Locations
@@ -28,13 +30,13 @@ This also includes a text file for credits and muting encounters.
 
 - PC Orphanage Bedroom (day and night variants)
 
-- Robin Amusements Date
+- Robin's Amusements Date
 
 - Town (night only variant)
 
 - Domus, Danube, Flats, Farm Manors Brake-ins
 
-- Park (night exhibitionism only variant)
+- Park (has Eden's park date and night exhibitionism only variants)
 
 - School (day, exam day, after hours, and pool party variants)
 
@@ -42,7 +44,11 @@ This also includes a text file for credits and muting encounters.
 
 - English Play
 
+- Kylar Chat (low, mid, high jealousy, and arcade variants)
+
 - Beach (day, night, summer day, and summer evening variants)
+
+- Promenade
 
 - Sydney's Beach Date
 
@@ -50,11 +56,17 @@ This also includes a text file for credits and muting encounters.
 
 - Office (includes a working for Avery variant)
 
+- Shop (includes a shop date variant)
+
 - Jewelry Store (DOLP only)
+
+- Boutique (DOLP only)
 
 - Police Station
 
 - Niki's Studio (includes a weekend variant)
+
+- MMA (includes a weekend variant, DOLP only)
 
 - Strip Club
 
@@ -80,6 +92,8 @@ This also includes a text file for credits and muting encounters.
 
 - Whitney's Halloween Event
 
+- Whitney Orphanage Loft
+
 - Forest (day, night, deep, and deep night variants)
 
 - Forest Shop (includes a variant if Gwylan is 'absent')
@@ -94,9 +108,13 @@ This also includes a text file for credits and muting encounters.
 
 - Dancing with Eden
 
+- Wolf Cave (variants depending on Ferocity and Harmony and a night variant - only Post Stockholm)
+
 - Farm (night only variant)
 
 - Cottage (day, evening, and night variants)
+
+- Alex's Meadow Date
 
 - Farm Dungeon
 
@@ -109,6 +127,8 @@ This also includes a text file for credits and muting encounters.
 - Estate Cottage
 
 - Tower (day, night, telescope night sky variants - only Post Stockholm)
+
+- Great Hawk Night Flight
 
 - Bailey's First Punishment
 
