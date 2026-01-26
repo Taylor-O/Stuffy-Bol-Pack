@@ -1,6 +1,6 @@
 # Stuffy's Breeze Pack
 
-A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 105 music tracks, can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game. Includes four "secret tracks".
+A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 140 music tracks, can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game. Includes four "secret tracks".
 
 Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
@@ -18,7 +18,7 @@ Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
 This also includes a text file for credits and muting encounters.
 
-## Currently Affected Locations
+## Currently Affected Locations/Events
 
 - Main Menu/Start Screen (includes three tracks)
 
@@ -46,6 +46,8 @@ This also includes a text file for credits and muting encounters.
 
 - Kylar Chat (low, mid, high jealousy, and arcade variants)
 
+- Spa
+
 - Beach (day, night, summer day, and summer evening variants)
 
 - Promenade
@@ -64,6 +66,8 @@ This also includes a text file for credits and muting encounters.
 
 - Police Station
 
+- Chalets
+
 - Niki's Studio (includes a weekend variant)
 
 - MMA (includes a weekend variant, DOLP only)
@@ -71,6 +75,10 @@ This also includes a text file for credits and muting encounters.
 - Strip Club
 
 - Adult Shop (includes variants for different days of the week - up to six tracks)
+
+- Town Hall (includes a Hookah Plot variant)
+
+- Compound (includes a trespassing variant)
 
 - Old Sewers and Beach Cave (includes a chased/stalked variant)
 
@@ -88,7 +96,7 @@ This also includes a text file for credits and muting encounters.
 
 - Being Hunted (forest, moor, and Ivory Wraith variants)
 
-- Bloodmoon (includes a Halloween variant)
+- Bloodmoon (includes variants for differant locations and Halloween)
 
 - Whitney's Halloween Event
 
@@ -104,11 +112,17 @@ This also includes a text file for credits and muting encounters.
 
 - Churchyard Catacombs
 
+- Lake (includes a late day variant)
+
+- Bog
+
+- Lake Ruin (includes a night variant)
+
 - Cabin Inside (only Post Stockholm)
 
 - Dancing with Eden
 
-- Wolf Cave (variants depending on Ferocity and Harmony and a night variant - only Post Stockholm)
+- Wolf Cave (has variants depending on Ferocity and Harmony and a night variant - only Post Stockholm)
 
 - Farm (night only variant)
 
@@ -128,11 +142,13 @@ This also includes a text file for credits and muting encounters.
 
 - Tower (day, night, telescope night sky variants - only Post Stockholm)
 
-- Great Hawk Night Flight
+- Great Hawk's Night Flight Date
 
 - Bailey's First Punishment
 
-- Prison (includes a Prison Rut variant)
+- Prison (includes a prison rut variant)
+
+- Island (raft and ritual variants only)
 
 - Underground Farm
 
