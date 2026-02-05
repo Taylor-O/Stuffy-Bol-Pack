@@ -1,6 +1,6 @@
 # Stuffy's Breeze Pack
 
-A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 140 music tracks, can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game. Includes four "secret tracks".
+A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 155 music tracks, can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game. Includes four "secret tracks".
 
 Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
@@ -14,7 +14,7 @@ Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
 4. Upload the stuffy.json file
 
-5. (Optional for DOLP players) After following the above, download the DOLP zip file, unzip, and put the folder in the music folder
+5. (Optional for DOLP players) After following the above, download the DOLP zip file (go to update **v1.7**), unzip, and put the folder in the *music* folder
 
 This also includes a text file for credits and muting encounters.
 
@@ -96,7 +96,9 @@ This also includes a text file for credits and muting encounters.
 
 - Being Hunted (forest, moor, and Ivory Wraith variants)
 
-- Bloodmoon (includes variants for differant locations and Halloween)
+- Bloodmoon (includes variants for different locations and Halloween)
+
+- Being Caught by the Wraith
 
 - Whitney's Halloween Event
 
@@ -108,7 +110,7 @@ This also includes a text file for credits and muting encounters.
 
 - Gwylan's Mating Ritual Dance
 
-- Forest Garden
+- Forest Garden and Gwylan Hypnosis
 
 - Churchyard Catacombs
 
@@ -153,3 +155,7 @@ This also includes a text file for credits and muting encounters.
 - Underground Farm
 
 - Underground Brothel
+
+- Schism Event
+
+- Bleeding Ward Painting
