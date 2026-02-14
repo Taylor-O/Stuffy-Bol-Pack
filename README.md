@@ -1,6 +1,6 @@
 # Stuffy's Breeze Pack
 
-A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 155 music tracks, can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game. Includes four "secret tracks".
+A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 172 music tracks, can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game. Includes four "secret tracks".
 
 Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
@@ -46,6 +46,8 @@ This also includes a text file for credits and muting encounters.
 
 - Kylar Chat (low, mid, high jealousy, and arcade variants)
 
+- Museum
+
 - Spa
 
 - Beach (day, night, summer day, and summer evening variants)
@@ -71,6 +73,8 @@ This also includes a text file for credits and muting encounters.
 - Niki's Studio (includes a weekend variant)
 
 - MMA (includes a weekend variant, DOLP only)
+
+- Temple (night and event variants)
 
 - Strip Club
 
@@ -98,11 +102,15 @@ This also includes a text file for credits and muting encounters.
 
 - Bloodmoon (includes variants for different locations and Halloween)
 
-- Being Caught by the Wraith
+- Being Caught by the Wraith (includes a haunted variant)
+
+- Wraith Fight while Possessed
+
+- Wraith Christmas Event
 
 - Whitney's Halloween Event
 
-- Whitney Orphanage Loft
+- Whitney Orphanage Loft Event
 
 - Forest (day, night, deep, and deep night variants)
 
@@ -159,3 +167,5 @@ This also includes a text file for credits and muting encounters.
 - Schism Event
 
 - Bleeding Ward Painting
+
+- Hopeless Cycle Painting
