@@ -88,6 +88,8 @@ This also includes a text file for credits and muting encounters.
 
 - Town Hall (includes a Hookah Plot variant)
 
+- Pub (rainy day and Friday night variants)
+
 - Compound (includes a trespassing variant)
 
 - Drain
