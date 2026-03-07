@@ -1,6 +1,6 @@
 # Stuffy's Breeze Pack
 
-A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 172 music tracks, can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game. Includes four "secret tracks".
+A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 192 music tracks, can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game. Includes four "secret tracks".
 
 Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
@@ -18,11 +18,17 @@ Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
 This also includes a text file for credits and muting encounters.
 
+## Known Issues
+
+- An issue where the music with the Main Menu/Start Screen doesn't play, either use debug mode to play it manually or switch between different packs (ex. default pack), then put it in your desired order
+
+- The music changing on the Main Menu/Start Screen when exiting out of the Breeze tab can't be fixed, but it can be used to cycle through the songs
+
 ## Currently Affected Locations/Events
 
 - Main Menu/Start Screen (includes three tracks)
 
-- Tip and Scene Viewer
+- Tip and Scene Viewer (includes three tracks)
 
 - Character Viewer (includes three tracks)
 
@@ -84,13 +90,17 @@ This also includes a text file for credits and muting encounters.
 
 - Compound (includes a trespassing variant)
 
+- Drain
+
 - Old Sewers and Beach Cave (includes a chased/stalked variant)
 
 - Smuggler Pub (includes a Zephyr variant)
 
 - Landfill
 
-- Avery's Dates (dinner, party, hotel, and Avery winning the cards date variants)
+- Night Monster's Tower
+
+- Avery's Dates (dinner, party, hotel, cards, and Avery winning the cards date variants)
 
 - Avery's Mansion (has variants for different outcomes)
 
@@ -120,15 +130,17 @@ This also includes a text file for credits and muting encounters.
 
 - Forest Garden and Gwylan Hypnosis
 
-- Churchyard Catacombs
+- Churchyard Catacombs (includes a combat variant)
 
 - Lake (includes a late day variant)
+
+- Lake Office
 
 - Bog
 
 - Lake Ruin (includes a night variant)
 
-- Cabin Inside (only Post Stockholm)
+- Cabin Inside (includes a truama variant - only Post Stockholm)
 
 - Dancing with Eden
 
@@ -136,13 +148,17 @@ This also includes a text file for credits and muting encounters.
 
 - Farm (night only variant)
 
+- Farm Road (includes a variant for a high encroachment event)
+
 - Cottage (day, evening, and night variants)
 
 - Alex's Meadow Date
 
+- Farm Assault (includes variants for combat, defeat, and victory)
+
 - Farm Dungeon
 
-- Serpent Maze
+- Serpent Maze (includes a combat variant)
 
 - Moor (day, night, deep, and deep night variants)
 
