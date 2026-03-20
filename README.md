@@ -1,6 +1,6 @@
 # Stuffy's Breeze Pack
 
-A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 192 music tracks, can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game. Includes four "secret tracks".
+A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 203 music tracks, can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game. Includes four "secret tracks".
 
 Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
@@ -14,7 +14,7 @@ Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
 4. Upload the stuffy.json file
 
-5. (Optional for DOLP players) After following the above, download the DOLP zip file (go to update **v1.7**), unzip, and put the folder in the *music* folder
+5. (Optional for DOLP players) After following the above, download the DOLP zip file (go to update **v1.9.1**), unzip, and put the folder in the *music* folder
 
 This also includes a text file for credits and muting encounters.
 
@@ -25,6 +25,8 @@ This also includes a text file for credits and muting encounters.
 - The music changing on the Main Menu/Start Screen when exiting out of the Breeze tab can't be fixed, but it can be used to cycle through the songs
 
 ## Currently Affected Locations/Events
+
+This is most, if not all, places and activities that have music. Some passages share some tracks, it might list spoilers.
 
 - Main Menu/Start Screen (includes three tracks)
 
@@ -38,11 +40,15 @@ This also includes a text file for credits and muting encounters.
 
 - Robin's Amusements Date
 
+- Whitney's Vist to the Orphanage Loft
+
 - Town (night only variant)
 
 - Domus, Danube, Flats, Farm Manors Brake-ins
 
-- Park (has Eden's park date and night exhibitionism only variants)
+- Park (night exhibitionism variant only)
+
+- Eden's Park Date
 
 - School (day, exam day, after hours, and pool party variants)
 
@@ -50,7 +56,9 @@ This also includes a text file for credits and muting encounters.
 
 - English Play
 
-- Kylar Chat (low, mid, high jealousy, and arcade variants)
+- Interacting with Kylar (low, mid, high jealousy, and arcade variants)
+
+- Interacting with Whitney (has varitants for fighting, and chatting at the park)
 
 - Museum
 
@@ -66,11 +74,11 @@ This also includes a text file for credits and muting encounters.
 
 - Office (includes a working for Avery variant)
 
-- Shop (includes a shop date variant)
+- Shop (has variants for different events, and a holiday variant)
 
-- Jewelry Store (DOLP only)
+- Jewelry Store (includes a holiday variant, DOLP only)
 
-- Boutique (DOLP only)
+- Boutique (includes a holiday variant, DOLP only)
 
 - Police Station
 
@@ -108,21 +116,15 @@ This also includes a text file for credits and muting encounters.
 
 - Avery's Skyscraper (has variants for different outcomes)
 
-- Being Stalked (includes an Ivory Wraith variant)
+- Being Stalked (has varaints for the forest and Ivory Wraith)
 
 - Being Hunted (forest, moor, and Ivory Wraith variants)
 
 - Bloodmoon (includes variants for different locations and Halloween)
 
-- Being Caught by the Wraith (includes a haunted variant)
-
-- Wraith Fight while Possessed
-
-- Wraith Christmas Event
+- A Bunch Ivory Wraith Stuff
 
 - Whitney's Halloween Event
-
-- Whitney Orphanage Loft Event
 
 - Forest (day, night, deep, and deep night variants)
 
@@ -130,11 +132,13 @@ This also includes a text file for credits and muting encounters.
 
 - Gwylan's Mating Ritual Dance
 
-- Forest Garden and Gwylan Hypnosis
+- Forest Garden
 
 - Churchyard Catacombs (includes a combat variant)
 
 - Lake (includes a late day variant)
+
+- Lake Ritual
 
 - Lake Office
 
@@ -173,6 +177,8 @@ This also includes a text file for credits and muting encounters.
 - Great Hawk's Night Flight Date
 
 - Bailey's First Punishment
+
+- Asylum
 
 - Prison (includes a prison rut variant)
 
