@@ -1,6 +1,6 @@
 # Stuffy's Breeze Pack
 
-A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 203 music tracks, can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game. Includes four "secret tracks".
+A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 200+ music tracks, including five "secret" tracks. Can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game.
 
 Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
@@ -14,9 +14,9 @@ Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
 4. Upload the stuffy.json file
 
-5. (Optional for DOLP players) After following the above, download the DOLP zip file (go to update **v1.9.1**), unzip, and put the folder in the *music* folder
+5. (Optional for DOLP players) After following the above, download the DOLP zip file (go to update **v2**), unzip, and put the folder in the *music* folder
 
-This also includes a text file for credits and muting encounters.
+This also includes a text file for credits and muting encounters. v2 now has a video tutorial for help installing.
 
 ## Known Issues
 
@@ -28,9 +28,11 @@ This also includes a text file for credits and muting encounters.
 
 This is most, if not all, places and activities that have music. Some passages share some tracks, it might list spoilers.
 
-- Main Menu/Start Screen (includes three tracks)
+- Main Menu/Start Screen (includes five tracks)
 
-- Tip and Scene Viewer (includes three tracks)
+- Tip Viewer
+
+- Scene Viewer
 
 - Character Viewer (includes three tracks)
 
@@ -42,7 +44,9 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Whitney's Vist to the Orphanage Loft
 
-- Town (night only variant)
+- Maxed Fatigue
+
+- Town (dawn/dusk and night only variants)
 
 - Domus, Danube, Flats, Farm Manors Brake-ins
 
@@ -55,6 +59,8 @@ This is most, if not all, places and activities that have music. Some passages s
 - Science Fair and Maths Competition
 
 - English Play
+
+- Doren's Flat
 
 - Interacting with Kylar (low, mid, high jealousy, and arcade variants)
 
@@ -71,6 +77,8 @@ This is most, if not all, places and activities that have music. Some passages s
 - Sydney's Beach Date
 
 - Sea
+
+- Dog Pound (night and entering a fight variants)
 
 - Office (includes a working for Avery variant)
 
@@ -110,7 +118,7 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Night Monster's Tower
 
-- Avery's Dates (dinner, party, hotel, cards, and Avery winning the cards date variants)
+- Avery's Dates (many variants)
 
 - Avery's Mansion (has variants for different outcomes)
 
@@ -125,6 +133,8 @@ This is most, if not all, places and activities that have music. Some passages s
 - A Bunch Ivory Wraith Stuff
 
 - Whitney's Halloween Event
+
+- Kylar's Halloween Event
 
 - Forest (day, night, deep, and deep night variants)
 
@@ -152,9 +162,11 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Wolf Cave (has variants depending on Ferocity and Harmony and a night variant - only Post Stockholm)
 
-- Farm (night only variant)
+- Farm (many variants)
 
-- Farm Road (includes a variant for a high encroachment event)
+- Farm Road (late day and a high encroachment event variants)
+
+- Medow/Coastlands (includes a night variant)
 
 - Cottage (day, evening, and night variants)
 
@@ -172,11 +184,13 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Estate Cottage
 
-- Tower (day, night, telescope night sky variants - only Post Stockholm)
+- Tower (day, dawn/dusk, night, and telescope night sky variants - only Post Stockholm)
 
 - Great Hawk's Night Flight Date
 
 - Bailey's First Punishment
+
+- Mines
 
 - Asylum
 
