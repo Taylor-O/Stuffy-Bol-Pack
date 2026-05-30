@@ -16,7 +16,7 @@ Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
 5. (Optional for DOLP players) After following the above, download the DOLP zip file (go to update **v2**), unzip, and put the folder in the *music* folder
 
-This also includes a text file for credits and muting encounters. v2 now has a video tutorial for help installing.
+This also includes a text file for credits and muting encounters. v2, and up, now has a video tutorial for help installing.
 
 ## Known Issues
 
@@ -46,7 +46,7 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Maxed Fatigue
 
-- Town (dawn/dusk and night only variants)
+- Town (dawn/dusk with seasonal variants, and a night variant)
 
 - Domus, Danube, Flats, Farm Manors Brake-ins
 
@@ -136,7 +136,7 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Kylar's Halloween Event
 
-- Forest (day, night, deep, and deep night variants)
+- Forest (many variants)
 
 - Forest Shop (includes a variant if Gwylan is 'absent')
 
@@ -156,11 +156,11 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Lake Ruin (includes a night variant)
 
-- Cabin Inside (includes a truama variant - only Post Stockholm)
+- Cabin Inside (includes variants for Stockholm trait)
 
 - Dancing with Eden
 
-- Wolf Cave (has variants depending on Ferocity and Harmony and a night variant - only Post Stockholm)
+- Wolf Cave (includes variants for Stockholm trait)
 
 - Farm (many variants)
 
@@ -178,13 +178,15 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Serpent Maze (includes a combat variant)
 
-- Moor (day, night, deep, and deep night variants)
+- Moor (many variants)
 
 - Remy's Estate (includes a max chaos variant)
 
 - Estate Cottage
 
-- Tower (day, dawn/dusk, night, and telescope night sky variants - only Post Stockholm)
+- Fighting Great Hawk
+
+- Tower (includes variants for Stockholm trait)
 
 - Great Hawk's Night Flight Date
 
