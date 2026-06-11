@@ -56,6 +56,8 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - School (day, exam day, after hours, and pool party variants)
 
+- Special Red Book
+
 - Science Fair and Maths Competition
 
 - English Play
@@ -65,6 +67,8 @@ This is most, if not all, places and activities that have music. Some passages s
 - Interacting with Kylar (low, mid, high jealousy, and arcade variants)
 
 - Interacting with Whitney (has varitants for fighting, and chatting at the park)
+
+- Whitney's Flat (includes a dawn variant)
 
 - Museum
 
@@ -84,17 +88,11 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Shop (has variants for different events, and a holiday variant)
 
-- Jewelry Store (includes a holiday variant, DOLP only)
-
-- Boutique (includes a holiday variant, DOLP only)
-
 - Police Station
 
 - Chalets
 
 - Niki's Studio (includes a weekend variant)
-
-- MMA (includes a weekend variant, DOLP only)
 
 - Temple (night and event variants)
 
@@ -118,7 +116,7 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Night Monster's Tower
 
-- Avery's Dates (many variants)
+- Avery's Dates (many variants, includes Valentine's Day)
 
 - Avery's Mansion (has variants for different outcomes)
 
@@ -209,3 +207,13 @@ This is most, if not all, places and activities that have music. Some passages s
 - Bleeding Ward Painting
 
 - Hopeless Cycle Painting
+
+## DOLP Add-On
+
+Music only. For sfx/ambiance, check out Lorepotato's pack: [https://gitgud.io/Lorepotato/Plus-BoL-Pack]
+
+- Jewelry Store (includes a holiday variant)
+
+- Boutique (includes a holiday variant)
+
+- MMA (includes a weekend variant)
