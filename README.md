@@ -14,41 +14,47 @@ Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
 4. Upload the stuffy.json file
 
-5. (Optional for DOLP players) After following the above, download the DOLP zip file (go to update **v2**), unzip, and put the folder in the *music* folder
+5. (Optional for DOLP players) After following the above, go to this release: [https://github.com/Taylor-O/Stuffy-Bol-Pack/releases/tag/Plus]
+
+6. Unzip, and put the DOLP folder in the *music* folder
 
 This also includes a text file for credits and muting encounters. v2, and up, now has a video tutorial for help installing.
 
 ## Known Issues
 
-- An issue where the music with the Main Menu/Start Screen doesn't play, either use debug mode to play it manually or switch between different packs (ex. default pack), then put it in your desired order
+- An issue where the music with the Main Menu/Start Screen doesn't play, either use debug mode to play it manually or switch the order between different packs (ex. default pack), then put it in your desired order
 
-- The music changing on the Main Menu/Start Screen when exiting out of the Breeze tab can't be fixed, but it can be used to cycle through the songs
+- (DOLP) Changing the banner doesn't immediately play the track, opening then exiting out the Breeze tab will play the new track
+
+- (DOLP) Closing the game will revert the banner to the default track upon opening it, this can not be fixed 
 
 ## Currently Affected Locations/Events
 
 This is most, if not all, places and activities that have music. Some passages share some tracks, it might list spoilers.
 
-- Main Menu/Start Screen (includes five tracks)
+- Main Menu/Start Screen
 
 - Tip Viewer
 
 - Scene Viewer
 
-- Character Viewer (includes three tracks)
+- Character Viewer
 
 - Orphanage Christmas
 
-- PC Orphanage Bedroom (day and night variants)
+- PC Orphanage Bedroom (day, dawn/dusk, and night variants)
 
 - Robin's Amusements Date
 
-- Whitney's Vist to the Orphanage Loft
+- Whitney's Visit to the Orphanage Loft
 
 - Maxed Fatigue
 
-- Town (dawn/dusk with seasonal variants, and a night variant)
+- Town (dawn/dusk with seasonal and trauma variants, and a night variant)
 
 - Domus, Danube, Flats, Farm Manors Brake-ins
+
+- Domus' Shifty Camera Person Event
 
 - Park (night exhibitionism variant only)
 
@@ -92,6 +98,8 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Chalets
 
+- Dance Studio (weekend and jobs only)
+
 - Niki's Studio (includes a weekend variant)
 
 - Temple (night and event variants)
@@ -108,7 +116,7 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Drain
 
-- Old Sewers and Beach Cave (includes a chased/stalked variant)
+- Old Sewers and Beach Cave (chased/stalked and combat variants)
 
 - Smuggler Pub (includes a Zephyr variant)
 
@@ -188,6 +196,8 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Great Hawk's Night Flight Date
 
+- Nightmares (includes a combat variant)
+
 - Bailey's First Punishment
 
 - Mines
@@ -196,7 +206,7 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Prison (includes a prison rut variant)
 
-- Island (raft and ritual variants only)
+- Island (many variants)
 
 - Underground Farm
 
@@ -211,6 +221,8 @@ This is most, if not all, places and activities that have music. Some passages s
 ## DOLP Add-On
 
 Music only. For sfx/ambiance, check out Lorepotato's pack: [https://gitgud.io/Lorepotato/Plus-BoL-Pack]
+
+- Banners (alien, blood, and gold variants)
 
 - Jewelry Store (includes a holiday variant)
 
