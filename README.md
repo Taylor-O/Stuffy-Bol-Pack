@@ -86,7 +86,7 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Sydney's Beach Date
 
-- Sea
+- Sea (includes a trauma variant)
 
 - Dog Pound (night and entering a fight variants)
 
@@ -152,7 +152,7 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Churchyard Catacombs (includes a combat variant)
 
-- Lake (includes a late day variant)
+- Lake (includes a late day and a trauma variant)
 
 - Lake Ritual
 
@@ -160,7 +160,7 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Bog
 
-- Lake Ruin (includes a night variant)
+- Lake Ruin (includes a night and a trauma variant)
 
 - Cabin Inside (includes variants for Stockholm trait)
 
