@@ -26,7 +26,7 @@ This also includes a text file for credits and muting encounters. v2, and up, no
 
 - (DOLP) Changing the banner doesn't immediately play the track, opening then exiting out the Breeze tab will play the new track
 
-- (DOLP) Closing the game will revert the banner to the default track upon opening it, this can not be fixed 
+- (DOLP) Closing the game will revert the banner to the default track upon opening it, this can not be fixed
 
 ## Currently Affected Locations/Events
 
@@ -42,7 +42,7 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Orphanage Christmas
 
-- PC Orphanage Bedroom (day, dawn/dusk, and night variants)
+- PC Orphanage Bedroom (variants for different times of day, and trauma variant)
 
 - Robin's Amusements Date
 
@@ -50,7 +50,7 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Maxed Fatigue
 
-- Town (dawn/dusk with seasonal and trauma variants, and a night variant)
+- Town (dawn/dusk only with seasonal and trauma variants, and a night variant)
 
 - Domus, Danube, Flats, Farm Manors Brake-ins
 
@@ -72,7 +72,7 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Interacting with Kylar (low, mid, high jealousy, and arcade variants)
 
-- Interacting with Whitney (has varitants for fighting, and chatting at the park)
+- Interacting with Whitney (has variants for fighting, and chatting at the park)
 
 - Whitney's Flat (includes a dawn variant)
 
@@ -80,7 +80,7 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Spa
 
-- Beach (day, night, summer day, and summer evening variants)
+- Beach (many variants)
 
 - Promenade
 
