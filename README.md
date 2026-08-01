@@ -1,6 +1,6 @@
 # Stuffy's Breeze Pack
 
-A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 200+ music tracks, including five "secret" tracks. Can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game.
+A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 250+ music tracks, including five "secret" tracks. Can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game.
 
 Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
@@ -8,7 +8,7 @@ Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
 1. Go to releases and download stuffy.zip
 
-2. Unzip and put the folder inside *game directory*\breeze\packs
+2. Unzip, go inside the folder, copy/cut the stuffy folder, put inside *game directory*\breeze\packs\
 
 3. Open the game, go to the Breeze of Lewdity tab and press "Import From File"
 
@@ -16,9 +16,9 @@ Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
 5. (Optional for DOLP players) After following the above, go to this release: [https://github.com/Taylor-O/Stuffy-Bol-Pack/releases/tag/Plus]
 
-6. Unzip, and put the DOLP folder in the *music* folder
+6. Unzip, go inside the folder, copy/cut the DOLP folder, and put it in the *music* folder
 
-This also includes a text file for credits and muting encounters. v2, and up, now has a video tutorial for help installing.
+This also includes a text file for credits and muting encounters. v2, and up, now has a video tutorial for help installing and how to play the different banner tracks in the DOLP file. Videos can be deleted after installation.
 
 ## Known Issues
 
@@ -26,7 +26,7 @@ This also includes a text file for credits and muting encounters. v2, and up, no
 
 - (DOLP) Changing the banner doesn't immediately play the track, opening then exiting out the Breeze tab will play the new track
 
-- (DOLP) Closing the game will revert the banner to the default track upon opening it, this can not be fixed
+- (DOLP) Closing the game will revert the banner to the default track upon opening it, this can not be fixed at the moment
 
 ## Currently Affected Locations/Events
 
