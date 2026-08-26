@@ -1,6 +1,6 @@
 # Stuffy's Breeze Pack
 
-A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 250+ music tracks, including five "secret" tracks. Can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game.
+A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 250+ music tracks, including five "secret" tracks. Can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game. If you want to use my pack as a base for your pack or whatever (copying code, reference, etc), it is perfectly fine! I just ask to not reupload my pack to other sites. Or little to no modification to the pack, and then claim it as your own.
 
 Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
@@ -170,7 +170,9 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Farm (many variants)
 
-- Farm Road (late day and a high encroachment event variants)
+- Farm Road (late day, trauma, and a high encroachment event variant)
+
+- Farm Manors (base track unused, for now)
 
 - Medow/Coastlands (includes a night variant)
 
