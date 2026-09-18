@@ -1,6 +1,8 @@
 # Stuffy's Breeze Pack
 
-A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 250+ music tracks, including five "secret" tracks. Can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game. If you want to use my pack as a base for your pack or whatever (copying code, reference, etc), it is perfectly fine! I just ask to not reupload my pack to other sites. Or little to no modification to the pack, and then claim it as your own.
+A breeze pack that I created for DoL - mainly soundtracks from video games, requires the Breeze of Lewdity add-on. Adds 250+ music tracks, including five "secret" tracks. Can be used with other packs, though it might replace certain songs. More songs will be added in future releases for as long as I play the game.
+
+If you want to use my pack as a base for your pack or whatever (copying code, reference, etc), it is perfectly fine! I just ask to not re-upload my pack to other sites. Or little to no modification to the pack, and then claim it as your own (edits for personal use is okay).
 
 Get Breeze here: [https://gitgud.io/velvetvillainess/breeze-of-lewdity]
 
@@ -26,7 +28,7 @@ This also includes a text file for credits and muting encounters. v2, and up, no
 
 - (DOLP) Changing the banner doesn't immediately play the track, opening then exiting out the Breeze tab will play the new track
 
-- (DOLP) Closing the game will revert the banner to the default track upon opening it, this can not be fixed at the moment
+- (DOLP) Closing the game will revert the banner to the default track upon opening the game again
 
 ## Currently Affected Locations/Events
 
@@ -49,6 +51,8 @@ This is most, if not all, places and activities that have music. Some passages s
 - Whitney's Visit to the Orphanage Loft
 
 - Maxed Fatigue
+
+- Fishing (includes a unique variant for the Lake at night)
 
 - Town (dawn/dusk only with seasonal and trauma variants, and a night variant)
 
@@ -76,7 +80,7 @@ This is most, if not all, places and activities that have music. Some passages s
 
 - Whitney's Flat (includes a dawn variant)
 
-- Museum
+- Museum (includes a rainy day variant)
 
 - Spa
 
